@@ -12,8 +12,8 @@
 - 🎓 Data Science student | Passionate about Web Dev & Analytics  
 - 🔭 Exploring **Gemini API**, **PWA**, **Telegram Bots**, and AI integrations  
 - 🛠️ I love solving real-world problems through tech  
-- 💬 Ask me about **JavaScript, MERN, C++, Python, Data Science**  
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com)  
+- 💬 Ask me about **JavaScript, MERN, DSA, Java**  
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/yashika-chaturvedi-a01071291)  
 - 🌐 Portfolio coming soon...
 
 ---
