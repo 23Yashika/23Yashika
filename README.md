@@ -35,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23Yashika&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=23Yashika&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Yashika&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="langs"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=23Yashika&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -65,9 +65,9 @@
 
 ### 🌍 Let's Connect
 
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" /></a>
+<a href="https://www.linkedin.com/in/yashika-chaturvedi-a01071291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="yashika23022006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/23Yashika"><img src="https://img.shields.io/github/followers/23Yashika?label=Follow&style=social" /></a>
 
 ---
 
@@ -77,6 +77,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=brightgreen&style=flat" alt="visitors"/>
-</p>
