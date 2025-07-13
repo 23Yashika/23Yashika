@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
+![Java](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)  
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
